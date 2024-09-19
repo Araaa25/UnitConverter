@@ -155,7 +155,8 @@
     <string name="parsecsymbol">pc</string>
     <string name="lightyear">Năm ánh sáng</string>
     <string name="lightyearsymbol">ly</string>
-
+    
+    <!-- Đơn vị khác -->
     <string name="history_shortcut_short_label">Lịch sử</string>
     <string name="history_shortcut_long_label">Lịch sử</string>
     <string name="history_shortcut_disabled_label">Lịch sử</string>
